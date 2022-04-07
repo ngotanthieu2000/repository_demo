@@ -1,3 +1,7 @@
 hello world! 
 day la dong lenh cua thanh vien trantantrung
+<<<<<<< HEAD
 commmit cua ngotanthieu
+=======
+commit cua trantantrung
+>>>>>>> origin/main
